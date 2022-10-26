@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hardik26k
+- 👋 Hi, I’m Hardik
 - 👀 I’m interested in computer hardware
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on open source projects 
