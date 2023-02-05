@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hardik
 - 👀 I’m interested in computer hardware
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning bash scripting and linux system administration
 - 💞️ I’m looking to collaborate on open source projects 
 - 📫 How to reach me @email = hardik26k@gmail.com
 
